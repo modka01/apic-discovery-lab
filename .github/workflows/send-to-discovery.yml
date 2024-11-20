@@ -8,7 +8,6 @@ env:
   API_FILES: APIfolder/photos.yaml
   PLATFORM_API_PREFIX: api-manage-27fb4ea0-platform-api-tech-jam-apic
   INSECURE_SKIP_TLS_VERIFY: true
-  NODE_TLS_REJECT_UNAUTHORIZED: true
   #API_FILES: APIfolder/uber-api.json
   #API_FILES: APIfolder/coffee-store.yaml
   #API_FOLDERS: APIfolder,APIfolderTwo
